@@ -7,12 +7,12 @@ body {
     padding: 0;
     display: grid;
     place-items: center;
-    background-color: rgba(103, 157, 157, 0.587);
+    background-color: rgb(219, 20, 20);
 }
 
 h1 {
     font-size: 8rem;
-    color: #fff;
+    color: rgba(21, 196, 21, 0.753);
     font-family: sans-serif;
 }
 
